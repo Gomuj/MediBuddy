@@ -1,0 +1,7 @@
+# Database & Uploads
+*.db
+uploads/
+backend/uploads/
+
+# Root Node Modules
+node_modules/

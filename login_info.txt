@@ -1,0 +1,5 @@
+Patient Email: patient@test.com / Password: 1234
+
+Doctor Email: doctor@test.com / Password: 1234
+
+Admin Email: admin@test.com / Password: 1234
